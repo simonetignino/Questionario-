@@ -1,0 +1,5 @@
+1- Un algoritmo è un insieme di istruzioni volte al compimento di uno "azione". 
+
+2- Una variabile è un contenitore che, appunto, conterrà un valore da noi definito. Possono essere numeri interi, stringhe, boolean ecc...
+
+3- No, undefined fa riferimento a una variabile senza "valore". Null, di per se, è un valore. 
